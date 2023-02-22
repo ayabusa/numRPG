@@ -17,9 +17,9 @@ If you encounter any bug or problem or you just want to talk to me here is my di
 
 ## Nice projects
 Nice projects that you should definitly check out.
-[Upsilon](https://getupsilon.web.app/)
-[Omega](https://getomega.dev/)
-[Nwagyu](https://www.nwagyu.com/)
+- [Upsilon](https://getupsilon.web.app/)
+- [Omega](https://getomega.dev/)
+- [Nwagyu](https://www.nwagyu.com/)
 
 ## License
 
